@@ -1,0 +1,31 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sip Calculator 0.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/sip-calculator\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-12-21T00:46:03-05:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Language: \n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: sip-calculator\n"
+
+#. Plugin Name of the plugin
+msgid "Sip Calculator"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "rndexperts.com"
+msgstr ""
+
+#. Description of the plugin
+msgid "This plugin can be used to calculate Systematic Investment Plan (SIP). You can place shortcode \"[sip-calculator]\" anywhere on you"
+msgstr ""
+
+#. Author of the plugin
+msgid "Rnd Experts"
+msgstr ""
